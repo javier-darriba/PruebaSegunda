@@ -86,8 +86,4 @@ El proyecto proporciona un sistema para gestionar productos. Cada producto tiene
 
 ## 7. Créditos y atribuciones
 
-**Desarrollador principal**: Javier Darriba González  
-
-## 8. License
-
-Este proyecto está licenciado bajo la **GNU General Public License v3.0**.
+**Desarrollador principal**: Javier Darriba González
