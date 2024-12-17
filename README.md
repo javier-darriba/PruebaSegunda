@@ -9,7 +9,7 @@ Para ejecutar este proyecto, es necesario:
 2. Un entorno de desarrollo, como Eclipse.
 3. Clona el repositorio e importa el proyecto en tu IDE. Configura el servidor de aplicaciones para desplegar la aplicación.
 
-4. ## 2. Descripción
+## 2. Descripción
 
 El proyecto proporciona un sistema para gestionar productos. Cada producto tiene un nombre, categoría, precio y stock. Se pueden realizar operaciones como:
 
