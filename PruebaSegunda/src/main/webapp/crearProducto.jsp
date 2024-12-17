@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Alta Producto</title>
+<link rel="stylesheet" type="text/css" href="estilo.css">
 </head>
 <body>
 	<h1>Dar de alta un producto</h1>
@@ -13,7 +14,7 @@
 	String errorMessage = (String) request.getAttribute("errorMessage");
 	if (errorMessage != null && !errorMessage.isEmpty()) {
 	%>
-	<p style="color: red;"><%=errorMessage%></p>
+	<p><%=errorMessage%></p>
 	<%
 	}
 	%>

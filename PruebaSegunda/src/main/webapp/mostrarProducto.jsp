@@ -6,6 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Detalles Producto</title>
+<link rel="stylesheet" type="text/css" href="estilo.css">
 </head>
 <body>
 	<%

@@ -7,6 +7,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Listado Productos</title>
+<link rel="stylesheet" type="text/css" href="estilo.css">
 </head>
 <body>
 <body>

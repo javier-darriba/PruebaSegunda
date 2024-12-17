@@ -7,6 +7,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Eliminar Producto</title>
+<link rel="stylesheet" type="text/css" href="estilo.css">
 </head>
 <body>
 	<h1>Eliminar un producto</h1>
